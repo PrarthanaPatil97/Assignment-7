@@ -1,0 +1,13 @@
+/* #london-wrapper, #windsor-wrapper{
+    display: none;
+    height: 500px;
+} */
+
+body > #share-options{
+    display: none;
+}
+.modal {
+    position: absolute;
+    z-index: 1000;
+    /* background-color:#0f0; */
+}
